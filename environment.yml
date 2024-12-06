@@ -1,0 +1,29 @@
+# Basic environment for package
+name: wx_plots
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - warnings
+  - glob
+  - datetime
+  - requests
+  - gzip
+  - shutil
+  - netCDF4
+  - cartopy
+  - matplotlib
+  - pandas
+  - metpy
+  - boto3
+  - botocore
+  - botocore
+  - os
+  - xarray
+  - math
+  - siphon
+  - multiprocessing
+  - requests
+  - sys
+  - scipy
